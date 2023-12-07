@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\ClienteSocketApp\obj\Debug\ClienteSocketApp.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ClienteSocketApp\obj\Debug\ClienteSocketApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe.config
+C:\Users\Daniel\source\repos\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe
+C:\Users\Daniel\source\repos\ClienteSocketApp\bin\Debug\ClienteSocketApp.pdb
+C:\Users\Daniel\source\repos\ClienteSocketApp\obj\Debug\ClienteSocketApp.exe
+C:\Users\Daniel\source\repos\ClienteSocketApp\obj\Debug\ClienteSocketApp.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe.config
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.pdb

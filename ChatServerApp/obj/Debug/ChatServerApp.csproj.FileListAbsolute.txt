@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\ChatServerApp\bin\Debug\ChatServerApp.exe.config
+C:\Users\Daniel\source\repos\ChatServerApp\bin\Debug\ChatServerApp.exe
+C:\Users\Daniel\source\repos\ChatServerApp\bin\Debug\ChatServerApp.pdb
+C:\Users\Daniel\source\repos\ChatServerApp\obj\Debug\ChatServerApp.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ChatServerApp\obj\Debug\ChatServerApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ChatServerApp\obj\Debug\ChatServerApp.exe
+C:\Users\Daniel\source\repos\ChatServerApp\obj\Debug\ChatServerApp.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\bin\Debug\ChatServerApp.exe.config
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\bin\Debug\ChatServerApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\bin\Debug\ChatServerApp.pdb
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\obj\Debug\ChatServerApp.csproj.AssemblyReference.cache
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\obj\Debug\ChatServerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\obj\Debug\ChatServerApp.csproj.CoreCompileInputs.cache
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\obj\Debug\ChatServerApp.exe
+C:\Users\MelchioT\Documents\workVisualStudio\ChatServerApp\ChatServerApp\obj\Debug\ChatServerApp.pdb
